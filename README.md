@@ -1,9 +1,9 @@
 # Hi there! I'm Chiara 👋 
 
 #### I'm a Computer Science Student learning in and out of University. 
->- 🌱 I’m currently learning **Java**, **Javascript** and **HTML**.
->- ⭐ My goal is to get confident with my programming skills and become a developer.
->- ⚡ Fun fact: I have a special interest for malwares, from their history to testing the actual effects on virtual machines.
+- 🌱 I’m currently learning **_Java_**, **_Javascript_** and **_HTML_**.
+- ⭐ My goal is to get confident with my programming skills and become a developer.
+- ⚡ Fun fact: I have a special interest for malwares, from their history to testing the actual effects on virtual machines.
 
 
 
