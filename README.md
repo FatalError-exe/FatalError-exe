@@ -1,8 +1,14 @@
-# Hi there! I'm Chiara🦎
+# Hi there! I'm Fatal🦎
 
 - 🐢 I'm a Computer Science stundent who is learning how to programm from scratch
 - 🐍 I'm here to show my progress and putting all sort of silly codes I make to the test
-- 🦖 Fun facts: I have a special interest for malwares, from their history to testing the actual effects on virtual machines
+- 🦕 I doubt someone will ever check my page, but in case, be nice but feel free to tell me if I fucked up
+
+# 🦖 Fun facts!
+- While not coding I like to ==relax== by playing some ==cozy== games like Bloodborne, Darksouls and COD.
+- I decide to learn how to code after the Wannacry ransomware attack but only managed to start this year
+- My nickname was given to me by my sister and it stuck, so it will stay lol
+- If you couldn't tell already I love reptiles and I want to get a pet gecko
 
 # Currently focusing on 🐊
 - [x] C++ and OOP
