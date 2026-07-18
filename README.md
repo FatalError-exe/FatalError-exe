@@ -5,7 +5,7 @@
 - 🦕 I doubt someone will ever check my page, but in case, be nice but feel free to tell me if I fucked up
 
 # 🦖 Fun facts!
-- While not coding I like to ==relax== by playing some ==cozy== games like Bloodborne, Darksouls and COD.
+- While not coding I like to **relax** by playing some **cozy** games like Bloodborne, Darksouls and COD.
 - I decide to learn how to code after the Wannacry ransomware attack but only managed to start this year
 - My nickname was given to me by my sister and it stuck, so it will stay lol
 - If you couldn't tell already I love reptiles and I want to get a pet gecko
