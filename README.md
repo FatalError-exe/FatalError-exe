@@ -10,7 +10,7 @@
 - My nickname was given to me by my sister and it stuck, so it will stay lol
 - If you couldn't tell already I love reptiles and I want to get a pet gecko
 
-# Currently focusing on 🐊
+# Currently focusing on🐊
 - [x] C++ and OOP
 - [ ] Java and Scenebuilder
 - [ ] Checking out Python
