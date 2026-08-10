@@ -12,7 +12,7 @@
 
 # Currently focusing on🐊
 - [x] C++ and OOP
-- [ ] Java and Scenebuilder
+- [x] Java and Scenebuilder
 - [ ] Checking out Python
 My goal right now is to work through these task and finish them all for September 🤞
 ---
