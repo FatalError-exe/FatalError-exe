@@ -11,9 +11,7 @@
 - If you couldn't tell already I love reptiles and I want to get a pet gecko
 
 # Currently focusing on🐊
-- [x] C++ and OOP
-- [x] Java and Scenebuilder
-- [ ] Checking out Python
+[x] Studying and surviving
 My goal right now is to work through these task and finish them all for September 🤞
 ---
 
